@@ -1,0 +1,41 @@
+{
+  "Antipasti": [
+    {
+      "nome": "Carpaccio di Manzo",
+      "descrizione": "Fette sottili di manzo, olio extravergine, scaglie di parmigiano.",
+      "prezzo": 18,
+      "allergeni": ["latte"]
+    },
+    {
+      "nome": "Burrata e Pomodorini",
+      "descrizione": "Burrata fresca, pomodorini confit, basilico.",
+      "prezzo": 16
+    }
+  ],
+  "Primi": [
+    {
+      "nome": "Tagliolini al Tartufo",
+      "descrizione": "Tagliolini freschi, burro, tartufo nero.",
+      "prezzo": 28,
+      "allergeni": ["uova", "glutine", "latte"]
+    },
+    {
+      "nome": "Risotto allo Zafferano",
+      "descrizione": "Riso Carnaroli, zafferano, fonduta di parmigiano.",
+      "prezzo": 24,
+      "allergeni": ["latte"]
+    }
+  ],
+  "Secondi": [
+    {
+      "nome": "Branzino al Forno",
+      "descrizione": "Filetto di branzino, patate novelle, olive taggiasche.",
+      "prezzo": 32
+    },
+    {
+      "nome": "Filetto di Manzo",
+      "descrizione": "Filetto di manzo, salsa al vino rosso, verdure di stagione.",
+      "prezzo": 36
+    }
+  ]
+}
